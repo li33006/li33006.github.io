@@ -1,0 +1,44 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+
+}
+
+.rightalign {
+  text-align: right;
+}
+
+#red {
+  background-color:red;
+}
+#blue{
+  background-color:blue;
+}
+#green{
+  background-color:green;
+}
+#yellow{
+  background-color:yellow;
+}
+#orange{
+  background-color:orange;
+}
+
+h1 {
+  font-size: 1.5em;
+  color: black
+}
+
+h2 {
+  font-size: 1.3em;
+  color: black
+}
+
+p,ul,ol,dl,address {
+  font-size: 1.1em;
+  color: black
+}
+
+p, li, dd, dt, address {
+  line-height: 1.5;
+}
