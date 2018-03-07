@@ -14,10 +14,10 @@
   grid-row: 2 / 4;
 }
 .search {
-  height: 150%;
+  height: 170%;
   align-self: left;
 }
 .logout {
-  height: 50%;
+  height: 30%;
   align-self: end;
 }
