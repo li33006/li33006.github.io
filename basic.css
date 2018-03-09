@@ -3,7 +3,7 @@
   text-align: center;
   font-size: 2em;
   color: #ffeead;
-  
+
 }
 
 body {
@@ -30,4 +30,20 @@ html, body {
 }
 .container > div:nth-child(4) {
   background-color: #ff0000;
+}
+.container> div:nth-child(5){
+  background-color: #0000ff;
+}
+.search-input {
+  background: #ff6e68;
+  border: 0;
+  width: 100%;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid #ffeead;
+  color: #ffeead;
+  text-align: center;
+}
+::placeholder{
+  color: #ffeead;
 }
