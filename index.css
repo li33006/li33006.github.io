@@ -29,3 +29,7 @@
   grid-row: 2;
   text-align: center;
 }
+
+li {
+    display: inline;
+}
