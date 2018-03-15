@@ -6,7 +6,7 @@
   background-color: #00ffff;
 }
 
-.img {
+.container >div >img {
   max-width: 200px ;
 }  
 
