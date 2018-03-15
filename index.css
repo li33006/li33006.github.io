@@ -27,7 +27,6 @@
 .search{
   grid-column: 1/4;
   grid-row: 2;
-  text-align: center;
 }
 
 li {
