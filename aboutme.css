@@ -1,7 +1,12 @@
 body {
   max-width: 800px;
   margin: 0 auto;
-  background-color: beige;
+  background-color: green;
+}
+
+div,h1 {
+  color: red;
+  font-size: 1.5em;
 }
 
 p,ul,ol,dl,address {
