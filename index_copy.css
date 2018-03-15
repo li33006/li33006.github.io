@@ -1,0 +1,10 @@
+.container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+  height: 100%;
+  flex-wrap: wrap;
+}
+
+.container > div > img {
+  flex: 1 1 50px;
+}
