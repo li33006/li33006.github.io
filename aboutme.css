@@ -4,7 +4,7 @@ body {
   background-color: #00ffff;
 }
 
-div,h1 {
+h1 {
   color: red;
   font-size: 1.5em;
 }
