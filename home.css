@@ -1,1 +1,50 @@
+.container > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+
+}
+
+body {
+  margin: 0;
+}
+
+html, body {
+  box-sizing: border-box;
+
+  padding: 10px;
+  background-color: #ffeead;
+}
+
+.container > div:nth-child(1) {
+  background-color: #00ffff;
+}
+
+.container > div:nth-child(2) {
+  background-color: #00ff00;
+}
+
+.container > div:nth-child(3) {
+  background-color: #ffff00;
+}
+.container > div:nth-child(4) {
+  background-color: #ff0000;
+}
+.container> div:nth-child(5){
+  background-color: #0000ff;
+}
+.search-input {
+  background: #ff6e68;
+  border: 0;
+  width: 100%;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid #ffeead;
+  color: #ffeead;
+  text-align: center;
+}
+::placeholder{
+  color: #ffeead;
+}
 
